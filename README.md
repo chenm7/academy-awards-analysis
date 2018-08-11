@@ -4,5 +4,5 @@ The goal of this project was to predict Academy Award Best Picture winners using
 
 # Files
 
-AAanalysis.ipynb contains the Python code for the project as well as detailed explanations and analysis at every step.
-AAreport.pdf contains a condensed report written in LaTeX summarizing the methodology and findings.
+`AAanalysis.ipynb` contains the Python code for the project as well as detailed explanations and analysis at every step.
+`AAreport.pdf` contains a condensed report written in LaTeX summarizing the methodology and findings.
